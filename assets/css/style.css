@@ -13,7 +13,7 @@ body {
   color: #fff;
 }
 .col-1 {
-  background: #ce6801;
+  background: #25cece;
   flex: 1;
 }
   .col-1 ul{
@@ -30,7 +30,7 @@ body {
 		padding: 5px 2px;
 	}
 	.col-1 ul li a:hover{
-		color: #f79f1b;
+		color: #757575;
 	}
 .col-2 {
   display: flex;
@@ -44,7 +44,7 @@ body {
   justify-content: center;
 }
 header,footer{
-  background: #e67e22;
+  background: #22e6e6;
   height: 15vh;
 }
 header, footer, nav {
